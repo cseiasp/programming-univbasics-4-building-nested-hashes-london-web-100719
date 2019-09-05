@@ -31,7 +31,12 @@ def monopoly_with_third_tier
 	      owner1: "value",
 	      key: "value",
 	      key2: "value"},
-	    names: "value"
+	    names: {
+	      name1: 1, 
+	      name2: 1,
+	      name3: 2, 
+	      name4: 4
+	    }
 	  }
   }
 end
